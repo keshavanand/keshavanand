@@ -11,72 +11,28 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Keshav Anand Singh
-location: Canada 🍁
-role: AI Developer & Indie Maker
-fields: [AI, Web Apps, Manim Visualizations, Prompt Engineering]
-tech_stack: [FastAPI, React, Tailwind, Zustand, MongoDB, LangChain]
-interests: [Building AI tools, Teaching visually, Indie projects]
+- 🇨🇦 Based in Canada
+- 🧠 AI + Full-Stack Dev (FastAPI, React, Manim)
+- 🎯 Indie Hacker & Visual Thinker
 
-🛠️ Currently
-🔭 I’m currently working on an AI-based scene generator for Manim
+## 🔭 Current Focus
 
-🌱 I’m currently learning LangGraph + Custom LLM agents
+- 🛠️ AI-powered Manim video platform
+- 🌱 Learning LangGraph + RAG
+- 🤝 Open to collaboration on AI tools
 
-👯 I’m looking to collaborate on AI-powered developer tools
+## ⚙️ Tech Stack
 
-🤔 I’m looking for help with building scalable async FastAPI services
+FastAPI · React · Tailwind · Zustand · LangChain · MongoDB · Python
 
-💬 Ask me about AI prompt design, Manim, React or anything dev-related
+## 📊 GitHub Stats
 
-📫 How to reach me: keshav.anand.singh@gmail.com
+![Stats](https://github-readme-stats.vercel.app/api?username=keshav-singh&show_icons=true&theme=radical&hide=issues)
 
-😄 Pronouns: he/him
+## 📫 Connect
 
-⚡ Fun fact: I think in flowcharts, sketch on Figma, and code by vibes
+[Email](mailto:keshavanandsingh89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/keshav-anand-singh-8b4427154/) · [Portfolio](https://keshavanandsingh.co/)
 
-🧠 What I’m Building
-Project	Description	Tech
-🎬 Natural-Language Manim Generator	Converts prompts into educational math videos	Manim FastAPI LLMs
-🧩 Prompt-Based Scene Editor	AI-powered code editor with visual feedback	React Zustand LangChain
-🌐 RAG Chat Platform	Upload PDFs and chat with your documents	LangChain Chroma FastAPI
-
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,ts,mongodb,git,vercel,docker,linux" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keshav-singh&show_icons=true&theme=radical&hide=issues" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-singh&theme=radical" /> </p>
-🗂️ Highlighted Repos
-text
-Copy
-Edit
-📁 fastapi-manim-ai-backend – Full backend for prompt-based Manim scenes
-📁 ai-scene-editor – React-based AI scene builder
-📁 rag-doc-chat – Upload and chat with documents using LangChain
-🌐 Connect With Me
-<p align="center"> <a href="mailto:keshav.anand.singh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
-🧩 “I build tools to teach and learn through code, creativity, and AI.”
-
-markdown
-Copy
-Edit
-
----
-
-### 📝 How to Use This:
-
-1. Go to [GitHub → New Repo](https://github.com/new)
-2. **Repository name:** `your-github-username` (must match exactly)
-3. ✅ Public  
-4. ✅ Check "Add a README file"
-5. Click **Create Repository**
-6. Click `README.md`, then the ✏️ pencil icon, and paste the content above.
-
-Let me know if you want me to:
-- Add a banner image with your name/design
-- Use animated badges
-- Connect it to your live portfolio, Twitter, etc.
-
-I can generate a visual GitHub card or even a personal badge too!
+> “I build tools to teach and learn through code + creativity.”
