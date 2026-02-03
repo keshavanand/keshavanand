@@ -29,9 +29,12 @@ FastAPI · React · Tailwind · Zustand · LangChain · MongoDB · Python
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=keshavanand&show_icons=true&theme=radical&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavanand&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=keshavanand&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavanand&show_icons=true&theme=radical&hide=issues&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavanand&layout=compact&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshavanand&theme=radical)
+
 
 ## 📫 Connect
 
